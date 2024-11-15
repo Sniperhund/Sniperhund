@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Tauri v2<br>🌍  I'm based in Danmark<br>🖥️  See my portfolio at [lucasskt.dk](http://lucasskt.dk)<br>✉️  You can contact me at [lucas@lucasskt.dk](mailto:lucas@lucasskt.dk)</p>
+✨ Creating bugs since 2016
+📚 I'm currently learning Tauri v2
+🌍  I'm based in Danmark
+🖥️  See my portfolio at [lucasskt.dk](http://lucasskt.dk)
+✉  You can contact me at [lucas@lucasskt.dk](mailto:lucas@lucasskt.dk)
 
 ###
 

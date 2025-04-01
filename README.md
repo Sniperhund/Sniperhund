@@ -13,7 +13,7 @@
 ✨ Creating bugs since 2016<br>
 📚 I'm currently learning Tauri v2 and React<br>
 🌍  I'm based in Danmark<br>
-🖥️  See my portfolio at [lucasskt.dk](http://lucasskt.dk)<br>
+<!--🖥️  See my portfolio at [lucasskt.dk](http://lucasskt.dk)<br>-->
 ✉  You can contact me at [lucas@lucasskt.dk](mailto:lucas@lucasskt.dk)<br>
 
 ###
